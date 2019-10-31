@@ -25,3 +25,6 @@ Without the above projects, this project won't be able to come true. Thank you!
 2. Install required packages for this project (listed in above section).
 3. In `main.py`, put credential of your NeteaseMusic account, and specify settings.
 4. `python main.py` and enjoy!
+
+This is the final result for my favourite songs :)
+![](wordcloud.png)
