@@ -23,7 +23,7 @@ Without the above projects, this project won't be able to come true. Thank you!
 ## Get it working
 1. Clone the API, [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi), and run it following its documentation.
 2. Install required packages for this project (listed in above section).
-3. In `main.py`, put credential of your NeteaseMusic account, and specify settings.
+3. Copy `settings.sample.py` into `settings.py`, put credential of your NeteaseMusic account, and specify settings.
 4. `python main.py` and enjoy!
 
 This is the final result for my favourite songs :)
